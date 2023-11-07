@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     resumeLink.addEventListener("click", function (e) {
         e.preventDefault();
-        window.open('assets/Pranay_Pinjarkar_Resume.pdf', '_blank');
+        window.open('Pranay_Pinjarkar_Resume.pdf', '_blank');
     });
 
     // Show "Contact" section when clicking on "Contact" link
