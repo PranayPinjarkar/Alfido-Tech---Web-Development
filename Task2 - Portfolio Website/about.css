@@ -1,0 +1,29 @@
+/* about.css */
+
+.about-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.about-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+/* Add styling for the education section */
+.education {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Style the education items */
+.education-item {
+    margin-top: 10px;
+    padding: 5px 0;
+}
+
