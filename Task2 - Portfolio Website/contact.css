@@ -1,0 +1,50 @@
+.section.contact {
+    background-color: #8A2BE2; /* Violet background color */
+    color: #FFF; /* White text color */
+    padding: 20px; /* Add padding for content */
+}
+
+.contact__content {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact__content h2 {
+    font-size: 28px;
+}
+
+.contact__content p {
+    font-size: 18px;
+}
+
+.contact__content form {
+    margin-top: 20px;
+}
+
+.contact__content label {
+    display: block;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.contact__content input,
+.contact__content textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.contact__content button {
+    background-color: #FFF;
+    color: #8A2BE2;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 16px;
+}
